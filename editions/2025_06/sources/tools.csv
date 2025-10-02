@@ -5,7 +5,7 @@ id,Name,Points,Description,Flavor,Category,Dev comment
 3,Shoes,3,Take your shoes off to gain 1pt.,Stinky?,Tool,
 4,Mölkky,4,"Before playing this, describe Mölkky. First player to guess gets +1pt. If not one finds it, discard this.","Wait, is that even a real game?",Tool,
 5,Tennis ball,3,Play hidden. Draw a card when activated.,Silently bouncing toward victory.,Tool,
-6,Computer,3,Activate a card.,Don’t forget to update your strategy.,Tool,
+6,Computer,3,Activate a card.,Don't forget to update your strategy.,Tool,
 7,Mouse,2,Swap 2 cards.,Click. Drag. Swap. Win.,Tool,
 8,Keyboard,3,Swap 2 cards with the same value.,BÉPO?,Tool,
 9,Pitter,3,"Once: When a card with less than 3 points is played, you can put it to your discard pile.",Dénoyauteur,Tool,
