@@ -6,14 +6,11 @@ bevy_ggrs,6,"Put last card you played at the bottom of your pile, draw a card.",
 rayon,3,"Take 1 visible crate from each players, shuffle them and redistribute them hidden.",Parallel play,Crate
 serde,5,Hide all allied crates.,Serializing the unknown,Crate
 aery,3,Passive: Allied discarded card count for +1 pt.,The winds of change,Crate
-dexterous_developer,4,"Choose a card from your discard pile, put it on the bottom of your draw pile.",Sleight of hand,Crate
 bevy_fluent,4,Swap your draw pile with your opponent.,Speaking their language,Crate
 turborand,3,Shuffle a draw pile.,Mix it up,Crate
 bevy_flycam,3,"Turn your draw pile upside down (everyone can see your next card).
 
 Turn it back up if this is hidden.",Soar and survey,Crate
-config_cam,3,Look at a random card from each player's hand.,Adjust your perspective,Crate
-atmosphere,3,Look at the top card of every pile.,A breath of fresh air,Crate
 big_brain,0,"Next turn, draw 2 additional cards and play them.",Think faster,Crate
 yarn_spinner,3,Next player's turn draws from your pile.,Weaving the story,Crate
 bevy_reflect,3,"Each turn, look at the top of a pile, or a hidden card.",Mirror the move,Crate

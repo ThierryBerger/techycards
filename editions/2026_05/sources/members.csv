@@ -1,0 +1,42 @@
+id,Name,Usage authorization,Points,Description,Flavor,Category
+0,Eric Holk,,3,"Next turn, discard a visible card and play one additional card.",The incredible,Member
+1,Eric Huss,,4,Draw the next crate from your deck.,An update,Member
+2,James Munns,,2,Next player's card counts for 1 point.,Low resource management,Member
+3,Mara Bos,,2,Play the effect of the last card played by an opponent.,Concurrency,Member
+4,Mark Rousskov,,3,"Add 3 points to another card, then hide an allied crate.",Stabilize and polish,Member
+5,Oliver Scherer,,3,Reveal the top card of your opponent’s deck. Discard it if it has more than 3 cost.,fixmeh,Member
+6,Carol Nichols,,2,"Explain a crate to you opponents, if your explanation is appreciated, get +1 point.",Need a book?,Member
+7,Ryan Levick,,2,Hide an opponent's technique.,You Learn Something New Everyday,Member
+8,Jonathan Pallant,,2,Hide this card to hide an opponent's card after they played it.,Small details,Member
+9,Jack Huey,,4,Hide this if you have a card in each category.,Vision of all types,Member
+10,Khionu Sybiern,,5,Can be played if opponent has more than 2 techniques.,The missing link,Member
+11,Josh Gould,,3,Activate another card.,Stepping in,Member
+12,Alex Crichton,,2,Add 1 point to other cards in your hand.,Making sure that Rust succeeds,Member
+13,Niko Matsakis,,4,"Play on an opponent's side, they can't play crates while this is visible.",Baby steps,Member
+14,Boxy,,1,Gets +1 point for each hidden card.,Impl shadowing,Member
+15,Nicholas Nethercote,,3,"Hide a card, next player discards a visible card.",Grinding graphics,Member
+16,Nick Cameron,,2,Move a hidden card to your side.,Rust freediving,Member
+17,Manish Goregaokar,,2,Activate a card.,In pursuit of laziness,Member
+18,Pascal Hertleif,,2,"Choose an opponent, you both draw a card from the other's hand.",killercup,Member
+19,Steve Klabnik,,3,"All players draw a card, activate a card.",I read too much French philosophy,Member
+20,Sophia J. Turner,,4,"Play hidden, activate after 2 turns.","A foolish prophet
+Wandering the rain of pain
+Amateur of love",Member
+21,Without Boats,,5,Discard a card from your hand.,Dreams dry up,Member
+22,Josh Triplett,,3,No cards can be activated while this is visible.,Building solutions,Member
+23,Tyler Mandry,,1,"Gets +1pt. Each turn, either hide it or activate it.",Reliable choice,Member
+24,Aaron Turon,,4,"All other players discard a card from their hand, then draw a card.",Scrap that.,Member
+25,BurntSushi,,6,"All other players play a card now, but hidden.",I love to code,Member
+26,llogiq,,4,Players with the lesser cards in hand draw a card. The others activate a card.,This game is not for casuals.,Member
+27,ozkriff,,3,Next player sets the points of their cards in hands to 2.,Rust Gamedev,Member
+28,Graydon Hoare,,8,Cannot be played if you have another member.,"Language engineer by trade",Member
+29,Chris Krycho,,2,Pitch another visible member card for 2 additional points.,"Faith in podcasts, books and more",Member
+30,Sunjay Varma,,1,"If a player takes more than 2 minutes to end its turn, get +1 point.",Turtling on,Member
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

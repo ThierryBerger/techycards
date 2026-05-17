@@ -1,0 +1,45 @@
+id,Name,Points,Description,Flavor,Category
+0,sqlx,3,"- Announce a category
+- Draw a card
+- If it doesn't match: discard it.
+
+repeat up to 3 times.",,Crate
+1,winit,1,Gets +1pt. Gets +1pt when hidden.,,Crate
+2,wgpu,3,"Vote for the best visible card design, that card gets +1pt, other players draw a card.",,Crate
+3,dotenvy,3,"Draw a card, activate a card if you just drew a technique.",,Crate
+4,pyo3,3,"If an opponent has no visible cards touching each other, gets +1pt.",,Crate
+5,pest,2,"If this gets hidden, adds 2 pts to another card.",,Crate
+6,opentelemetry,2,"Previous player announce the category they intend to play next turn. If they lied, they must hide a card.",,Crate
+7,tonic,1,"Choose a player. They activate one of your cards, you activate one of theirs, steal on success.",Bidirectional streaming.,Crate
+8,web-sys,2,"Look at the top 3 cards of your draw pile. Draw one, discard one, put one back.",Which feature is it again?,Crate
+9,petgraph,5,"Link 2 allied cards, if one is hidden or discarded, both are.",,Crate
+10,humantime,4,The player who lives the farthest draw an aditional card.,,Crate
+11,tower,1,"Hide a card, put a visible card from an opponent in you discard pile.",,Crate
+12,crossbeam,3,"Discard a card in hand, draw a card.",,Crate
+13,zeroize,1,Set a crate's points to 0.,,Crate
+14,ehttp,3,Draw a card from an opponent's draw pile.,,Crate
+15,reqwest,3,Draw a card from an opponent's discard pile.,,Crate
+16,nom,4,"Activate a card, draw a card, discard a visible card.",,Crate
+17,tracing,-4,Passive: Gets +1pt for each visible card on next player's side.,,Crate
+18,futures,5,Next player activates a card.,,Crate
+19,tokio,-5,Play 1 additional card now.,await never sleeps.,Crate
+20,toml,6,Passive: Gets -1pt pour each of your other visible crates.,,Crate
+21,semver,1,Gain 1pt for each other visible card with exactly 1pt.,,Crate
+22,hyper,5,Next player plays 1 card but set its points to 1.,,Crate
+23,rustls,2,"Play hidden, Activate this on another player's turn to hide their played card.",,Crate
+24,log,5,"Passive: Each time you draw a card, announce its category.",,Crate
+25,smallvec,3,"Every players with more than 2 cards in hand discard a visible card and play a card, but hidden.",,Crate
+26,ryu,3,"If you have an odd points count in the member category, draw a card.",,Crate
+27,clap,4,"Next player must play a technique, or draw a card.",,Crate
+28,strsim,2,"Announce a category in your hand, if next player has it too, you both play a card from that category.",,Crate
+29,rand,2,Draw a card from your opponent's hand.,,Crate
+30,thiserror,3,Every player hide a card.,,Crate
+31,regex,3,"Hide a card, draw a card.",,Crate
+32,serde,3,"Activate a card, discard a card from your hand.",,Crate
+33,libc,3,Discard a card from your hand. Draw a card from another player's draw pile.,Unsafe terrain.,Crate
+34,indexmap,1,"Announce a category, every player must play a card of this category, or hide a card.",,Crate
+35,itertools,2,Activate a card.,,Crate
+36,base64,4,Hide a card.,,Crate
+37,bitflag,1,"Play 2 other cards, but set their points to 1 after your turn.",,Crate
+38,syn,3,Passive: Next player must announce the category of the cards they draw.,,Crate
+,,,,,

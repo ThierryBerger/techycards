@@ -1,0 +1,39 @@
+id,Name,Points,Description,Flavor,Category
+0,Check,0,"Look secretly at a hidden card, copy its points.",Let's take a look.,Technique
+1,Debug,0,"Make another card visible, without playing its effect.",I see it.,Technique
+2,Display,4,Force a player to attempt to activate a card.,Visible,Technique
+3,"""#[inline]""",3,"Play hidden.
+
+This can score points while hidden if adjacent techniques are visible.",I'm coming with you,Technique
+4,--generate-link-to-definition,4,Next player activates a card.,Navigation,Technique
+5,--document-private-items,3,Get +1 point for each hidden card.,Useful to me,Technique
+6,"""#[cfg(doc)]""",4,Play hidden.,For the keen eye.,Technique
+7,"""#[must_use]""",5,"If it’s your turn to play, you have to play this.",let _ =,Technique
+8,"""#[diagnostic::do_not_recommend]""",2,"Give -1pt to another card, then hide this.",Is this a blanket?,Technique
+9,Sized,6,"Guess the total amount of raw points a player has in hand, get -1pt per difference.",dyn incompatibility is not object safe,Technique
+10,Pin,3,"Hide a card.
+
+No other cards can be activated while this is visible.",Hands up!,Technique
+11,Never,!,"Play hidden.
+Discard if seen.
+Just before counting points, you can hide any card.
+",!,Technique
+12,Shadowing,0,"Hide an allied card, gain its points.",New description,Technique
+13,Safety,2,"While visible, you can choose to discard this rather than hiding any card.",,Technique
+14,expect(),3,"Activate an allied card, on failure, discard this too.",It's fine probably.,Technique
+15,cargo run,4,Activate an allied card.,Let's go.,Technique
+16,match,2,"Name a category, then draw a card. If it matches, play it.",There's always a pattern.,Technique
+17,?,2,"Next player activates a card. If they fail, you activate one of your cards.",Not my problem now.,Technique
+18,lazy_static!,4,"Play hidden.
+
+Activate this on any future turn to activate another hidden allied card.",Initializing... eventually.,Technique
+19,impl,2,Activate a card from your discard pile.,From the ashes.,Technique
+20,drop(),0,"Discard a visible allied card, draw 2 cards.",Clean it up.,Technique
+21,collect(),3,Draw cards until you have 4 in hand.,Gather them all.,Technique
+22,peekable(),2,"Look at the top 2 cards of your draw pile, put them back in any order.",I see what's coming.,Technique
+23,drain(),2,Draw a card from an opponent's discard pile.,Nothing wasted.,Technique
+24,todo!(),-1,Play hidden. Gets +4pts if still hidden when points are counted.,I'll get to it.,Technique
+25,no_std,8,Gets -1pt for each visible technique (including opponents').,Minimal footprint.,Technique
+26,Atomic,5,Gets -1pt for each other visible technique you have.,One at a time.,Technique
+27,"""#[deprecated]""",4,Next player can choose to discard a visible card to hide this.,Old school,Technique
+,,,,,
