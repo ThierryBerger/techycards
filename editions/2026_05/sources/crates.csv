@@ -23,7 +23,7 @@ repeat up to 3 times.",,Crate
 17,tracing,-4,Passive: Gets +1pt for each visible card on next player's side.,,Crate
 18,futures,5,Next player activates a card.,,Crate
 19,tokio,-5,Play 1 additional card now.,await never sleeps.,Crate
-20,toml,6,Passive: Gets -1pt pour each of your other visible crates.,,Crate
+20,toml,6,Passive: Gets -1pt for each of your other visible crates.,,Crate
 21,semver,1,Gain 1pt for each other visible card with exactly 1pt.,,Crate
 22,hyper,5,Next player plays 1 card but set its points to 1.,,Crate
 23,rustls,2,"Play hidden, Activate this on another player's turn to hide their played card.",,Crate
